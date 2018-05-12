@@ -1,0 +1,31 @@
+_repo: Conflict-of-Northern-and-Southern-Theories-of-Man-and-SocietyGreat-Speech-Delivered-in-New-Yo__25653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beecher, Henry Ward
+    birthdate: 1813
+    deathdate: 1887
+    gutenberg_agent_id: '31487'
+    url: http://www.gutenberg.org/2009/agents/31487
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Ward_Beecher
+description: ''
+gutenberg_issued: '2008-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Controversial literature'
+- !lcsh 'United States -- Politics and government -- 1853-1857'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcc 'E300'
+title: 'Conflict of Northern and Southern Theories of Man and Society
+
+  Great Speech, Delivered in New York City'
+url: http://www.gutenberg.org/ebooks/25653
