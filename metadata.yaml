@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31487
     wikipedia: http://en.wikipedia.org/wiki/Henry_Ward_Beecher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25653#Conflict-of-Northern-and-Southern-Theories-of-Man-and-SocietyGreat-Speech-Delivered-in-New-Yo_
 gutenberg_issued: '2008-05-31'
 gutenberg_type: Text
 identifiers:
